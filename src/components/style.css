@@ -1,0 +1,10 @@
+.contact-card {
+    box-shadow: 0 0 4px rgba(0, 0, 0, 1);
+    padding: 16px;
+    height: 120px;
+    margin-bottom: 16px;
+  }
+
+  .contact-card div {
+      margin-bottom: 8px;
+  }

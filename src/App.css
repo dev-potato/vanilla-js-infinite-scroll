@@ -1,0 +1,18 @@
+.container {
+  width: 800px;
+  margin: 0 auto;
+  list-style: none;
+  border: 1px, solid,
+}
+
+.contacts {
+  border: 1px, solid, black;
+  list-style: none;
+}
+
+.contact {
+  border: 1px, solid, black;
+  padding: 4px;
+  height: 100px;
+  list-style: none;
+}
